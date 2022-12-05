@@ -1,0 +1,43 @@
+body{
+    font-size: 2.4vw;
+    width: 100%;
+   
+}
+
+
+.kamal{
+   
+    width: 85%;
+    margin-top: 20px;
+    margin-left: 110px;
+    border-collapse: collapse;
+    
+    
+   
+
+}
+.khalid{
+    font-size: 23px;
+    text-align: center;
+    
+
+}
+.titre1{
+    text-align: center;
+    font-size: 40px;
+}
+.titre2{
+    text-align: center;
+    font-size: 25px;
+}
+.khwa{
+    font-size: 20px;
+    
+    width: 14px;
+
+}
+.sa3a{
+    font-size: 20px;
+    float: 10px;
+    
+}
